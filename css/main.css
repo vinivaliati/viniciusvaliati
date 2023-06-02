@@ -1095,26 +1095,27 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background-color: rgba(0, 0, 0, 0.4);
-	min-width: 220px;
+	background-color: rgba(0, 0, 0, 0.8);
+	min-width: 185px;
 	min-height: 66px;
 	position: absolute;
-	left: 90px;
+	left: -110px;
 	top: 0;
 }
 header .logo {
 	float: left;
-	margin-left: 20px;
-	margin-right: 50px;
+	margin-left: 0px;
+	margin-right: 00px;
 	margin-top: 25px;
 	position: relative;
 }
 header .logo a {
 	display: block;
+	font-family: "poppins-medium", sans-serif;
 	margin: 0;
 	padding: 0;
 	border: none;
-	color: #FFFAFA; /* Escolha a cor do texto */
+	color: #ff005d; /* Escolha a cor do texto */
 	text-decoration: none; /* Remove o sublinhado do link */
 	font-size: 24px; /* Escolha o tamanho da fonte */
 	text-align: center; /* Centraliza o texto */
