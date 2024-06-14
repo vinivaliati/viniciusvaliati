@@ -1095,11 +1095,11 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: rgba(0, 0, 0, 0);
 	min-width: 185px;
 	min-height: 66px;
 	position: absolute;
-	left: -110px;
+	left: -80px;
 	top: 0;
 }
 header .logo {
@@ -1231,7 +1231,7 @@ header .logo a {
 
 /* dropdown nav */
 .main-navigation {
-	background-color: rgba(0, 0, 0, 0.6);
+	background-color: rgba(0, 0, 0, 0);
 	padding: 24px 30px 42px;
 	margin: 0;
 	width: 100%;
@@ -1247,7 +1247,7 @@ header .logo a {
 }
 .main-navigation li a {
 	display: block;
-	color: #FFFFFF;
+	color: #FF0077;
 	width: auto;
 	padding: 15px 0;
 	line-height: 16px;
